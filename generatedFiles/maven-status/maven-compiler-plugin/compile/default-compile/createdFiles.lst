@@ -1,0 +1,10 @@
+controller\MainController.class
+application\MyLogger.class
+application\Main.class
+controller\TipOfTheDayController.class
+model\CalcOption$CalcOptionType.class
+model\DateConverter.class
+model\OptionList.class
+model\CalcOption.class
+model\TipModel.class
+controller\MainController$1.class

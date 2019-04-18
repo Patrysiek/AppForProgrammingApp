@@ -1,0 +1,1 @@
+This is application which read data from table and creates chart.

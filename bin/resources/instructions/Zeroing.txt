@@ -1,0 +1,2 @@
+You can zeroing values in table by clicking Zeroing button.
+You can also do that by press Ctr+Shif+Delete or by choosing option Edit->Zeroing

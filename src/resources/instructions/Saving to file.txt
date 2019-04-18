@@ -1,0 +1,2 @@
+You can save log to file by clicking Ctrl+S or by selecting option File-Save to File.
+Log is being saved in folder with application.

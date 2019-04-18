@@ -1,0 +1,3 @@
+Date by default is writted in Log Area.
+Format of date is rrrr-mm-dd (year-month-day).
+Date is being saved in Log Area  when changes.

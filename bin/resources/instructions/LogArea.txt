@@ -1,0 +1,3 @@
+The Log Area contains all action performed on the table and changes of data.
+You can save it to file in application folder.
+You can clear log by choosing option from Edit->Clear Log or by clicking "Ctrl + Delete".

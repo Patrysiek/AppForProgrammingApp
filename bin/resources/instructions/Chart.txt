@@ -1,0 +1,5 @@
+Bar char takes data from table and generates bar.
+Y - values of cells
+X - how much cells have got particular value.
+It is refreshed always after changing any value in table.
+ 

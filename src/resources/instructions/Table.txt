@@ -1,0 +1,3 @@
+The Table is a matrix 4x4 which contains double values.
+You can select any cell in matrix by changing values in spinner under the table.
+Values from table are being counted and set in the Chart.
